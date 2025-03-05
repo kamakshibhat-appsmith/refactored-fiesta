@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "67c89ddbf774a574a178d9b5_55cfb7b0-911a-42db-8754-795aea2d7feb",
+  "moduleUUID": "573d2e24-9892-4287-a9d9-5327d2696774",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "1",
+            "id": "edgdrkpgqo",
+            "label": "input1",
+            "propertyName": "inputs.input1"
+          }
+        ],
+        "id": "riurpyibhv",
+        "sectionName": ""
+      }
+    ],
+    "name": "QueryModule1"
+  }
+}
